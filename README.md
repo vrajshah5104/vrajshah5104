@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vraj-nilay-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj-nilay-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/vrajshah_5104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrajshah_5104" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vrajshah_5104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vrajshah_5104" height="30" width="40" /></a>
+<a href="www.youtube.com/@vrajshah_5104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vrajshah_5104" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vrajnspdpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vrajnspdpy" height="30" width="40" /></a>
 </p>
 
