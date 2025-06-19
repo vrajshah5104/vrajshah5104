@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Security Operations Center (SOC) analysis, SIEM tools, Incident Response, Threat Detection, etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vrajshah5104?tab=repositories](https://github.com/vrajshah5104?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/vrajshah5104?tab=repositories](https://github.com/vrajshah5104)
 
 - 📫 How to reach me **vrajnshah05@gmail.com**
 
